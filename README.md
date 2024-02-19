@@ -3,6 +3,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Autoritäre Verfassung</title>
+    <style>
+    body {
+      background-color: #161b22;
+      color: #c9d1d9;
+      font-family: Arial, sans-serif;
+    }
+    h1, h2, h3 {
+      color: #50fa7b;
+    }
+    a {
+      color: #50fa7b;
+    }
+    a:hover {
+      color: #c9d1d9;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+  </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 </head>
