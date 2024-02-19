@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meine GitHub-Seite</title>
+    <title>Autoritäre Verfassung</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 </head>
@@ -12,7 +12,7 @@
             <div>
                 <img class="mx-auto h-12 w-auto" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" alt="GitHub">
                 <h2 class="mt-6 text-center text-3xl font-extrabold text-gray-900">
-                    Willkommen bei meiner GitHub-Seite!
+                    Anmelden um Vortzufahren
                 </h2>
             </div>
             <form class="mt-8 space-y-6" action="#" method="POST">
@@ -42,4 +42,11 @@
                 </div>
                 <div>
                     <button type="submit" class="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+Anmelden
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
 </html>
